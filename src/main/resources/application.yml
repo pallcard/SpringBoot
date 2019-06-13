@@ -1,0 +1,22 @@
+spring:
+  profiles:
+    active: dev
+person:
+  name: zhangsan \n lisi
+  name2: 'zhangsan \n lisi'
+  name3: "zhangsan \n lisi"
+  age: 18
+  boss: false
+
+student:
+  name: lk
+  age: 23
+  boss: false
+  birth: 1997/1/1
+  maps: {k1: v1, k2: v2}
+  lists:
+  - 张三
+  - 李四
+  dog:
+    name: 小黑
+    age: 2

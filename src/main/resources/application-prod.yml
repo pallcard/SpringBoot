@@ -1,0 +1,12 @@
+server:
+  port: 8082 #修改端口号
+  servlet:
+    context-path: /lk  #端口号后需额外添加字符
+swagger:
+  title: SpringBoot学习
+  description: SpringBoot学习
+  version: 1.0.0
+  name: lk
+  url: https://pallcard.github.io
+  email: 1250585541@qq.com
+
